@@ -1,0 +1,21 @@
+{
+  "employes": [
+    {
+      "firstname": "abhishek",
+      "lastname": "Shekhawat",
+      "email": "yogeshshekhawat26@gmail.com",
+      "dob": "2024-12-09T18:30:00.000Z",
+      "gender": "male",
+      "education": "martic",
+      "company": "facebook",
+      "exp": 4,
+      "package": 14,
+      "id": "6f31"
+    }
+  ],
+  "adani": [
+    {
+      "id": "774f"
+    }
+  ]
+}
